@@ -1,0 +1,7 @@
+method,shots,acc
+# Fill in from the CoOp paper (Zhou et al., IJCV 2022) for EuroSAT and the backbone you compare to.
+# Write the table/figure number you took each value from in the report. Example rows:
+# zeroshot,0,XX.X
+# coop,1,XX.X
+# coop,4,XX.X
+# coop,16,XX.X
